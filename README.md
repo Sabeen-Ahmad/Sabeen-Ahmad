@@ -31,3 +31,6 @@ Flutter Developer | CS Graduate (2026) | Building **Nexora** — an AI-powered c
 
 ### 🔥 Streak Stats
 ![Sabeen's streak](https://streak-stats.demolab.com?user=Sabeen-Ahmad&theme=radical)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sabeen-Ahmad&theme=radical&no-frame=true&row=1&column=6)](https://github.com/Sabeen-Ahmad)
