@@ -1,4 +1,4 @@
-# Hi, I'm Sabeen 👋
+# Hi, I'm Sabeen Ahmad
 
 Flutter Developer | CS Graduate (2026) | Building **Nexora** — an AI-powered career & learning accountability platform for Pakistani students
 
@@ -21,10 +21,10 @@ Flutter Developer | CS Graduate (2026) | Building **Nexora** — an AI-powered c
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📌 Featured Projects
-- **[Nexora]()** — AI career & learning accountability app (Flutter, Laravel, Gemini API, Clean Architecture + BLoC)
-- **[ReadBuddy]()** — Book donation/borrowing app (internship project, TheCodersHub)
-- **[LingoLens]()** — Camera-based vocabulary app using ML Kit OCR + spaced repetition
+- **[Nexora](https://github.com/Sabeen-Ahmad/REPLACE-WITH-NEXORA-REPO)** — AI career & learning accountability app (Flutter, Laravel, Gemini API, Clean Architecture + BLoC)
+- **[ReadBuddy](https://github.com/kunalgharate/read-buddy-app)** — Book donation/borrowing app (internship project, TheCodersHub)
+- **[LingoLens](https://github.com/Sabeen-Ahmad/REPLACE-WITH-LINGOLENS-REPO)** — Camera-based vocabulary app using ML Kit OCR + spaced repetition
 
 ### 📊 GitHub Stats
-![Sabeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabeenAhmad&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabeenAhmad&layout=compact&theme=radical)
+![Sabeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabeen-Ahmad&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabeen-Ahmad&layout=compact&theme=radical)
