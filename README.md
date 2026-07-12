@@ -1,4 +1,4 @@
-# Hi, I'm Sabeen Ahmad
+# Hi, I'm Sabeen 👋
 
 Flutter Developer | CS Graduate (2026) | Building **Nexora** — an AI-powered career & learning accountability platform for Pakistani students
 
@@ -28,3 +28,6 @@ Flutter Developer | CS Graduate (2026) | Building **Nexora** — an AI-powered c
 ### 📊 GitHub Stats
 ![Sabeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabeen-Ahmad&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabeen-Ahmad&layout=compact&theme=radical)
+
+### 🔥 Streak Stats
+![Sabeen's streak](https://streak-stats.demolab.com?user=Sabeen-Ahmad&theme=radical)
